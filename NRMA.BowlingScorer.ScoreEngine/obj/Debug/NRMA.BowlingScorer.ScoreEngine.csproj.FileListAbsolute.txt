@@ -1,0 +1,1 @@
+C:\Projects\BowlingScorer\NRMA.BowlingScorer.ScoreEngine\obj\Debug\NRMA.BowlingScorer.ScoreEngine.csprojResolveAssemblyReference.cache

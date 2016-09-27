@@ -1,0 +1,5 @@
+C:\Projects\BowlingScorer\NRMA.BowlingScorer.Common\obj\Debug\NRMA.BowlingScorer.Common.csprojResolveAssemblyReference.cache
+C:\Projects\BowlingScorer\NRMA.BowlingScorer.Common\bin\Debug\NRMA.BowlingScorer.Common.dll
+C:\Projects\BowlingScorer\NRMA.BowlingScorer.Common\bin\Debug\NRMA.BowlingScorer.Common.pdb
+C:\Projects\BowlingScorer\NRMA.BowlingScorer.Common\obj\Debug\NRMA.BowlingScorer.Common.dll
+C:\Projects\BowlingScorer\NRMA.BowlingScorer.Common\obj\Debug\NRMA.BowlingScorer.Common.pdb

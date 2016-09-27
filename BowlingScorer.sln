@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRMA.BowlingScorer.UI", "BowlingScorer\NRMA.BowlingScorer.UI.csproj", "{06FC00A9-63E7-4CC4-8B88-53EE6FDD655A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRMA.BowlingScorer.Core", "NRMA.BowlingScorer.ScoreEngine\NRMA.BowlingScorer.Core.csproj", "{E300A271-EAAE-4B80-9517-3ED7F553BCA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRMA.BowlingScorer.Test", "NRMA.BowlingScorer.Test\NRMA.BowlingScorer.Test.csproj", "{C5F853EF-8A05-4EA0-A345-1A2FF67990C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRMA.BowlingScorer.Common", "NRMA.BowlingScorer.Common\NRMA.BowlingScorer.Common.csproj", "{75B03D3F-99EE-4820-A038-0E1009865B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FC00A9-63E7-4CC4-8B88-53EE6FDD655A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FC00A9-63E7-4CC4-8B88-53EE6FDD655A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FC00A9-63E7-4CC4-8B88-53EE6FDD655A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FC00A9-63E7-4CC4-8B88-53EE6FDD655A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E300A271-EAAE-4B80-9517-3ED7F553BCA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E300A271-EAAE-4B80-9517-3ED7F553BCA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E300A271-EAAE-4B80-9517-3ED7F553BCA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E300A271-EAAE-4B80-9517-3ED7F553BCA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F853EF-8A05-4EA0-A345-1A2FF67990C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F853EF-8A05-4EA0-A345-1A2FF67990C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F853EF-8A05-4EA0-A345-1A2FF67990C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F853EF-8A05-4EA0-A345-1A2FF67990C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B03D3F-99EE-4820-A038-0E1009865B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B03D3F-99EE-4820-A038-0E1009865B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B03D3F-99EE-4820-A038-0E1009865B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B03D3F-99EE-4820-A038-0E1009865B76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
